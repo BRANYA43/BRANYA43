@@ -21,6 +21,7 @@
 ###### 📝 Test Tools:
 ![Static Badge](https://img.shields.io/badge/unittest-%23?style=for-the-badge&logo=python&logoColor=white&color=423189)
 ![Static Badge](https://img.shields.io/badge/selenium-%23?style=for-the-badge&logo=selenium&logoColor=white&color=%2343B02A)
+![Static Badge](https://img.shields.io/badge/Pytest-%23?style=for-the-badge&logo=pytest&logoColor=white&color=%230A9EDC)
 
 ###### 🛠️ Tools & Softwares:
 ![Static Badge](https://img.shields.io/badge/docker-%23?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
@@ -34,6 +35,7 @@
 ![Static Badge](https://img.shields.io/badge/postman-%23?style=for-the-badge&logo=postman&logoColor=white&color=%23FF6C37)
 ![Static Badge](https://img.shields.io/badge/html5-%23?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/css3-%23?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)
+![Static Badge](https://img.shields.io/badge/Mypy-%23?style=for-the-badge&logo=python&logoColor=white&color=%23193440)
 
 
 ###### 🖥️ OS Platforms
